@@ -93,3 +93,21 @@ TeCoEd for his code Python-Poem-Maker, which I used as a base.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
+Links:
+
+TeCoEd's Python-Poem-Maker: 
+https://github.com/TeCoEd/Python-Poem-Maker
+
+Paged.js: 
+https://pagedjs.org/
+
+Rando.js: 
+https://randojs.com/
+
+Live Server
+https://github.com/ritwickdey/vscode-live-server
+
+Python Extension for Studio Visual Code:
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+-----------------------------------------------------------------------------------------------------------------------------------
