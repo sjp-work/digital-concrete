@@ -1,21 +1,4 @@
 #digital-concrete
------------------------------------------------------------------------------------------------------------------------------------
- 
-                                                                                                                           
-       ,,    ,,             ,,                   ,,                                                                         
-     `7MM    db             db   mm            `7MM                                                            mm           
-       MM                        MM              MM                                                            MM           
-  ,M""bMM  `7MM  .P"Ybmmm `7MM mmMMmm  ,6"Yb.    MM       ,p6"bo   ,pW"Wq.`7MMpMMMb.  ,p6"bo `7Mb,od8 .gP"Ya mmMMmm .gP"Ya  
-,AP    MM    MM :MI  I8     MM   MM   8)   MM    MM      6M'  OO  6W'   `Wb MM    MM 6M'  OO   MM' "',M'   Yb  MM  ,M'   Yb 
-8MI    MM    MM  WmmmP"     MM   MM    ,pm9MM    MM      8M       8M     M8 MM    MM 8M        MM    8M""""""  MM  8M"""""" 
-`Mb    MM    MM 8M          MM   MM   8M   MM    MM      YM.    , YA.   ,A9 MM    MM YM.    ,  MM    YM.    ,  MM  YM.    , 
- `Wbmd"MML..JMML.YMMMMMb  .JMML. `Mbmo`Moo9^Yo..JMML.     YMbmd'   `Ybmd9'.JMML  JMML.YMbmd' .JMML.   `Mbmmd'  `Mbmo`Mbmmd' 
-                6'     dP                                                                                                   
-                Ybmmmd'  
-
-                                                                                                   
------------------------------------------------------------------------------------------------------------------------------------
-
 Description:
 
 Digital Concrete is at its' core a poetry generator to create 
