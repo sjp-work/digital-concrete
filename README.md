@@ -89,7 +89,9 @@ www.sjp-design.nl
 
 Credits:
 
-TeCoEd for his code Python-Poem-Maker, which I used as a base.
+[@TeCoEd] for his code Python-Poem-Maker, which I used as a base.
+[@studiorabota] for troubleshooting and giving feedback on my code for HTML, CSS and Python.
+[@gijsdeheij] for troubleshooting and giving feedback on my code for HTML, CSS and Python.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
